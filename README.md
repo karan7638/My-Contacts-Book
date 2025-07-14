@@ -18,20 +18,6 @@ A simple and stylish web app to **manage your personal contacts** — built usin
 
 ---
 
-## 📁 Folder Structure
-
-```
-my-contacts-book/
-│
-├── index.html        # Main HTML file
-├── style.css         # Styles for layout and UI
-├── script.js         # All JavaScript logic
-├── README.md         # This file
-└── screenshot.png    # Optional preview image
-```
-
----
-
 ## 🚀 Getting Started
 
 ### 📌 Prerequisites
